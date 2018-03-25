@@ -1,0 +1,31 @@
+
+
+.Timer-box{
+  text-align: center;
+  height: 100px;
+  width: 20%;
+  border-style: solid;
+  border-width: 3px;
+  float:left;
+  margin:10px;
+  border-style: groove;
+  border-radius: 5px;
+}
+.Timer{
+  text-align:center;
+}
+
+.Timer-value{
+  font-size: 30px;
+  vertical-align:top;
+  margin : 1px;
+  margin-top: 25px;
+  vertical-align:center;
+}
+
+.Timer-denomination{
+  font-size: 12px;
+  color:#ccc;
+  margin : 1px;
+  vertical-align:center;
+}
